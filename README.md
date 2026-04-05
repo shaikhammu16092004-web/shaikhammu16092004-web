@@ -11,22 +11,39 @@
 
 ## 🧠 About Me
 
-```diff
-+ SOC Analyst (Blue Team)
-+ Passionate about Threat Detection
-+ Building Real-World Cybersecurity Projects
 
-<!--
-**shaikhammu16092004-web/shaikhammu16092004-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ SOC Analyst (Blue Team) focused on real-world threat detection
++ Hands-on experience with SIEM (Wazuh) and log analysis
++ Building custom security tools (Windows Monitoring Agent, Mini EDR)
++ Passionate about detecting attacks, not just studying them
++ Continuously learning Incident Response & Threat Hunting
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+# 🛠️ 🔥 SKILLS SECTION (Strong Version)
+
+👉 Ye uske niche add kar 👇
+
+```markdown id="skillspro123"
+## 🛠️ Skills
+
+### 🔹 Security & SOC
+- SIEM: Wazuh  
+- Threat Detection & Analysis  
+- Incident Response Basics  
+- IOC Identification  
+
+### 🔹 Tools
+- Burp Suite  
+- Nmap  
+- Wireshark  
+
+### 🔹 Operating Systems
+- Linux (Ubuntu, Kali)  
+- Windows  
+
+### 🔹 Programming & Scripting
+- Python  
+- Bash  
