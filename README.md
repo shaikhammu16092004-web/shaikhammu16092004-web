@@ -22,9 +22,9 @@
 
 ---
 
-# 🛠️ 🔥 SKILLS SECTION (Strong Version)
+# 🛠️ 🔥 SKILLS SECTION 
 
-👉 Ye uske niche add kar 👇
+
 
 ```markdown id="skillspro123"
 ## 🛠️ Skills
