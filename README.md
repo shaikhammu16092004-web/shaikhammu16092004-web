@@ -30,7 +30,7 @@
 ## 🛠️ Skills
 
 ### 🔹 Security & SOC
-- SIEM: Wazuh  
+- SIEM: Splunk  
 - Threat Detection & Analysis  
 - Incident Response Basics  
 - IOC Identification  
