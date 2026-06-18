@@ -13,7 +13,7 @@
 
 
 + SOC Analyst (Blue Team) focused on real-world threat detection
-+ Hands-on experience with SIEM (Wazuh) and log analysis
++ Hands-on experience with SIEM (Splunk) and log analysis
 + Building custom security tools (Windows Monitoring Agent, Mini EDR)
 + Passionate about detecting attacks, not just studying them
 + Continuously learning Incident Response & Threat Hunting
