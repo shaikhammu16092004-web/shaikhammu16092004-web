@@ -36,7 +36,8 @@
 - IOC Identification  
 
 ### 🔹 Tools
-- Burp Suite  
+- Splunk
+- Burp Suite 
 - Nmap  
 - Wireshark  
 
